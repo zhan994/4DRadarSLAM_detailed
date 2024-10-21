@@ -1,4 +1,4 @@
-# 4d_radar_slam_detailed
+# 4DRadarSLAM_detailed
 
 **A repo. which used to check 4DRadarSLAM.**
 
