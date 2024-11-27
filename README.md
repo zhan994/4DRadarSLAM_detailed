@@ -13,7 +13,7 @@
 
 ```bash
 cd ~/catkin_ws/src
-git clone https://github.com/zhan994/4d_radar_slam_detailed.git
+git clone https://github.com/zhan994/4DRadarSLAM_detailed.git
 cd ..
 catkin_make
 ```
